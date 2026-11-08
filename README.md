@@ -194,3 +194,6 @@ This repository serves as the official landing page for ST Screen Recorder. The 
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of ST Screen Recorder today!**
+
+---
+**Last updated:** 2026-11-08 22:45:13 UTC
