@@ -196,4 +196,4 @@ This repository serves as the official landing page for ST Screen Recorder. The 
 **Get the most recent version of ST Screen Recorder today!**
 
 ---
-**Last updated:** 2026-11-14 02:11:41 UTC
+**Last updated:** 2026-11-14 10:03:44 UTC
